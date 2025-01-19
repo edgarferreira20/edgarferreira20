@@ -1,6 +1,8 @@
-
 <h2 align="left">Hi 👋! My name is Edgar Ferreira and I'm a Front-End Devlopment from Angola living in Portugal.</h2>
 I'm currently studying Python & Django 🐍💻🖱📚
+
+
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=edgarferreira20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
